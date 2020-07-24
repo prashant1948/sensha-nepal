@@ -99,7 +99,7 @@
                                                         </a>
                                                     </li>
                                                     <li class="dropdown">
-                                                        <a class="dropdown-item dropdown-toggle active" href="#">
+                                                        <a class="dropdown-item dropdown-toggle" href="#">
                                                             About Us
                                                         </a>
                                                     </li>
@@ -109,7 +109,7 @@
                                                         </a>
                                                     </li>
                                                     <li class="dropdown">
-                                                        <a class="dropdown-item dropdown-toggle" href="#">
+                                                        <a class="dropdown-item dropdown-toggle active" href="#">
                                                             Why Us?
                                                         </a>
                                                     </li>

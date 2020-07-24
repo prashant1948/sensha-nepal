@@ -99,7 +99,7 @@
                                                         </a>
                                                     </li>
                                                     <li class="dropdown">
-                                                        <a class="dropdown-item dropdown-toggle active" href="#">
+                                                        <a class="dropdown-item dropdown-toggle" href="#">
                                                             About Us
                                                         </a>
                                                     </li>
@@ -107,22 +107,6 @@
                                                         <a class="dropdown-item dropdown-toggle" href="services.php">
                                                             Services
                                                         </a>
-                                                    </li>
-                                                    <li class="dropdown">
-                                                        <a class="dropdown-item dropdown-toggle" href="#">
-                                                            Packages
-                                                        </a>
-                                                        <ul class="dropdown-menu">
-                                                            <li class="dropdown-submenu">
-                                                                <a class="dropdown-item" href="#">Basic</a>
-                                                            </li>
-                                                            <li class="dropdown-submenu">
-                                                                <a class="dropdown-item" href="#">Pro</a>
-                                                            </li>
-                                                            <li class="dropdown-submenu">
-                                                                <a class="dropdown-item" href="#">Pro ++</a>
-                                                            </li>
-                                                        </ul>
                                                     </li>
                                                     <li class="dropdown">
                                                         <a class="dropdown-item dropdown-toggle" href="#">
