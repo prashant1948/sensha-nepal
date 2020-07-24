@@ -148,7 +148,7 @@
                                 <p class="mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="400" style="animation-delay: 400ms;">Feel free to ask for details, don't save any questions!</p>
                             </div>
 
-                            <form class="contact-form" action="php/contact-form.php" method="POST" novalidate="novalidate">
+                            <form class="contact-form" action="#" method="POST" novalidate="novalidate">
                                 <div class="contact-form-success alert alert-success d-none mt-4">
                                     <strong>Success!</strong>
                                     Your message has been sent to us.
