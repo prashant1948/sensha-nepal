@@ -28,14 +28,14 @@
         href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
 
         <!-- Vendor CSS -->
-        <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
-        <link rel="stylesheet" href="vendor/animate/animate.min.css">
-        <link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
-        <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
-        <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+        <link rel="stylesheet" href="required/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="required/fontawesome-free/css/all.min.css">
+        <link rel="stylesheet" href="required/animate/animate.min.css">
+        <link rel="stylesheet" href="required/simple-line-icons/css/simple-line-icons.min.css">
+        <link rel="stylesheet" href="required/owl.carousel/assets/owl.carousel.min.css">
+        <link rel="stylesheet" href="required/owl.carousel/assets/owl.theme.default.min.css">
         <link
-        rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+        rel="stylesheet" href="required/magnific-popup/magnific-popup.min.css">
 
         <!-- Theme CSS -->
         <link rel="stylesheet" href="css/theme.css">
@@ -45,10 +45,10 @@
         rel="stylesheet" href="css/theme-shop.css">
 
         <!-- Current Page CSS -->
-        <link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
-        <link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
-        <link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
-        <link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css">
+        <link rel="stylesheet" href="required/rs-plugin/css/settings.css">
+        <link rel="stylesheet" href="required/rs-plugin/css/layers.css">
+        <link rel="stylesheet" href="required/rs-plugin/css/navigation.css">
+        <link rel="stylesheet" href="required/circle-flip-slideshow/css/component.css">
 
         <!-- Demo CSS -->
 
@@ -61,7 +61,7 @@
         rel="stylesheet" href="css/custom.css">
 
         <!-- Head Libs -->
-        <script src="vendor/modernizr/modernizr.min.js"></script>
+        <script src="required/modernizr/modernizr.min.js"></script>
 
     </head>
     <body class="loading-overlay-showing" data-plugin-page-transition data-loading-overlay data-plugin-options="{'hideDelay': 500}">
@@ -258,7 +258,7 @@
             </div>
         </footer>
     </body>
-</html></div><!-- Vendor --><script src="vendor/jquery/jquery.min.js"></script><script src="vendor/jquery.appear/jquery.appear.min.js"></script><script src="vendor/jquery.easing/jquery.easing.min.js"></script><script src="vendor/jquery.cookie/jquery.cookie.min.js"></script><script src="master/style-switcher/style.switcher.js" id="styleSwitcherScript" data-base-path="" data-skin-src=""></script><script src="vendor/popper/umd/popper.min.js"></script><script src="vendor/bootstrap/js/bootstrap.min.js"></script><script src="vendor/common/common.min.js"></script><script src="vendor/jquery.validation/jquery.validate.min.js"></script><script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script><script src="vendor/jquery.gmap/jquery.gmap.min.js"></script><script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script><script src="vendor/isotope/jquery.isotope.min.js"></script><script src="vendor/owl.carousel/owl.carousel.min.js"></script><script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script><script src="vendor/vide/jquery.vide.min.js"></script><script src="vendor/vivus/vivus.min.js"></script><!-- Theme Base, Components and Settings --><script src="js/theme.js"></script><!-- Current Page Vendor and Views --><script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script><script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script><script src="vendor/circle-flip-slideshow/js/jquery.flipshow.min.js"></script><script src="js/views/view.home.js"></script><!-- Theme Initialization Files --><script src="js/theme.init.js"></script><script>
+</html></div><!-- Vendor --><script src="required/jquery/jquery.min.js"></script><script src="required/jquery.appear/jquery.appear.min.js"></script><script src="required/jquery.easing/jquery.easing.min.js"></script><script src="required/jquery.cookie/jquery.cookie.min.js"></script><script src="master/style-switcher/style.switcher.js" id="styleSwitcherScript" data-base-path="" data-skin-src=""></script><script src="required/popper/umd/popper.min.js"></script><script src="required/bootstrap/js/bootstrap.min.js"></script><script src="required/common/common.min.js"></script><script src="required/jquery.validation/jquery.validate.min.js"></script><script src="required/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script><script src="required/jquery.gmap/jquery.gmap.min.js"></script><script src="required/jquery.lazyload/jquery.lazyload.min.js"></script><script src="required/isotope/jquery.isotope.min.js"></script><script src="required/owl.carousel/owl.carousel.min.js"></script><script src="required/magnific-popup/jquery.magnific-popup.min.js"></script><script src="required/vide/jquery.vide.min.js"></script><script src="required/vivus/vivus.min.js"></script><!-- Theme Base, Components and Settings --><script src="js/theme.js"></script><!-- Current Page Vendor and Views --><script src="required/rs-plugin/js/jquery.themepunch.tools.min.js"></script><script src="required/rs-plugin/js/jquery.themepunch.revolution.min.js"></script><script src="required/circle-flip-slideshow/js/jquery.flipshow.min.js"></script><script src="js/views/view.home.js"></script><!-- Theme Initialization Files --><script src="js/theme.init.js"></script><script>
 (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
     i[r] = i[r] || function () {
