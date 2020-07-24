@@ -647,7 +647,7 @@
                     </div>
                     <div class="col-sm-3 col-lg-3">
                         <div class="call-to-action-btn no-left">
-                            <a href="http://themeforest.net/item/porto-responsive-html5-template/4106987" target="_blank" class="btn btn-lg mt-4 btn-primary">Get Quote!</a>
+                            <a href="contact.php" target="_blank" class="btn btn-lg mt-4 btn-primary">Get Quote!</a>
                             <span class="arrow hrb" style="top: -15px; left: -24px;"></span>
                         </div>
                     </div>
