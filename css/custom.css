@@ -64,5 +64,8 @@ html .bg-color-dark, html .bg-dark {
         background-color: black !important;
 
     }
+    .fa-chevron-down:before{
+        content: none;
+    }
    
   }
