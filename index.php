@@ -151,7 +151,7 @@
                             <li class="slide-overlay" data-transition="fade">
                                 <img src="img/blank.gif" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
 
-                                <div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute" data-videowidth="100%" data-videoheight="100%" data-videomp4="video/sensha-nepal.mp4" data-videopreload="preload" data-videoloop="loop" data-forcecover="1" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="false"></div>
+                                <div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute" data-videowidth="100%" data-videoheight="100%" data-videomp4="https://sensha-nepal.com/wp-content/uploads/2016/08/My-Movie-9.mp4" data-videopreload="preload" data-videoloop="loop" data-forcecover="1" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="false"></div>
 
                                 <div class="tp-caption" data-x="center" data-hoffset="['-125','-125','-125','-215']" data-y="center" data-voffset="['-50','-50','-50','-75']" data-start="1000" data-transform_in="x:[-300%];opacity:0;s:500;" data-transform_idle="opacity:0.2;s:500;" style="z-index: 5;"><img src="img/slides/slide-title-border.png" alt=""></div>
 
