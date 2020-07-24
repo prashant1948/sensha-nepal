@@ -1,0 +1,68 @@
+/* Add here all your CSS customizations */
+.slider-container .tp-opacity-overlay {
+    background: #000;
+    opacity: 0.15;
+}
+
+html .bg-color-dark, html .bg-dark {
+    background-color: black !important;
+}
+
+.thumb-info{
+    background-color: unset;
+}
+
+#footer {
+    background: black;
+    margin-top: 0px;
+}
+#footer .footer-copyright.footer-copyright-style-2 {
+    background: black;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+.social-icons.social-icons-opacity-light li a {
+    background: rgba(255, 255, 255, 0.2);
+}
+.testimonial-author strong{
+    opacity: 1 !important;
+}
+#header .header-body {
+    border-top: unset;
+    background-color: black;
+}
+
+.togle-services{
+    background-color: white !important;
+}
+.toggle.active > .toggle-title{
+    color: #0088CC !important;
+}
+.contact-icon{
+    background: black;
+}
+
+@media only screen and (max-width: 767px) {
+    .page-header.page-header-modern.page-header-background.page-header-background-md {
+        padding: 85px 0;
+        background-size: 100% 100%;
+    }
+
+    .tab-pane-navigation.active{
+        margin-top: 10px;
+    }
+
+    .thumb-info{
+        margin-top: 30px !important;
+    }
+
+    .index{
+        margin-top: 40px !important;
+    }
+
+    html:not(.sticky-header-active) #header.header-transparent:not(.header-semi-transparent) .header-body-index
+    {
+        background-color: black !important;
+
+    }
+   
+  }
