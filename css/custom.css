@@ -64,4 +64,9 @@ html .bg-color-dark, html .bg-dark {
         background-color: black !important;
 
     }
+
+    .rev_slider_wrapper{
+        opacity: 1 !important;
+        visibility: inherit !important;
+    }
     }
