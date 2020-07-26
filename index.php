@@ -208,6 +208,68 @@
                     </div>
                 </div>
 
+                <div class="container" id="main">
+                    <div class="row text-center pt-5 pb-4 mt-5 mb-4">
+                        <div class="col-md-10 mx-md-auto">
+                            <h1 class="word-rotator slide font-weight-bold text-8 mb-3 appear-animation" data-appear-animation="fadeInUpShorter">
+                                <span class="word-rotator-words bg-primary">
+                                    <b class="is-visible">Dedicated</b>
+                                    <b>Commited</b>
+                                </span>
+                                <span>
+                                    car coating in Nepal.</span>
+                            </h1>
+                            <p class="lead appear-animation mb-0" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
+                                FOR MAXIMIZED PROTECTION, GLOSSY LOOK & WATER REPELLANCY
+                            </p>
+                            <a href="about-us.html" class="font-weight-semibold text-decoration-none learn-more text-2">About Sensha Nepal
+                                <i class="fas fa-chevron-right ml-2"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row mb-lg-4 pt-5 mb-5 pb-5">
+                        <div class="col-lg-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
+                            <div class="feature-box feature-box-style-2">
+                                <div class="feature-box-icon">
+                                    <i class="icons icon-support text-color-primary"></i>
+                                </div>
+                                <div class="feature-box-info">
+                                    <h4 class="font-weight-bold mb-2">Full Product Lineup</h4>
+                                    <p>
+                                        SENSHA Nepal’s full product line-up is created to respond to all our customer’s needs for car coating and car washing. This avoids mixing products from multiple suppliers that may have compatibility issues. The compatibility among our products was thoroughly checked so that you will not experience any compatibility issues.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 appear-animation" data-appear-animation="fadeInUpShorter">
+                            <div class="feature-box feature-box-style-2">
+                                <div class="feature-box-icon">
+                                    <i class="icons icon-layers text-color-primary"></i>
+                                </div>
+                                <div class="feature-box-info">
+                                    <h4 class="font-weight-bold mb-2">PART & PROBLEM SPECIFIC APPROACH</h4>
+                                    <p>
+                                        SENSHA Nepal has dedicated coating for a variety of surfaces to maximize your protection against daily road and environmental contaminants. Our products are designed specifically for each car parts.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">
+                            <div class="feature-box feature-box-style-2">
+                                <div class="feature-box-icon">
+                                    <i class="icons icon-menu text-color-primary"></i>
+                                </div>
+                                <div class="feature-box-info">
+                                    <h4 class="font-weight-bold mb-2">FULL RANGE OF SERVICES</h4>
+                                    <p>
+                                        SENSHA Nepal offers full range of services, from car detailing to car wash. We can also customize our packages to provide the auto detailing, car coating and car washing services according to your needs.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <section class="section bg-dark border-0 m-0" id="services">
                     <div class="container">
                         <div class="row my-5">
@@ -625,7 +687,7 @@
                     </div>
                 </section>
             </div>
-            
+
             <footer id="footer">
                 <div class="container">
                     <div class="row py-5">
