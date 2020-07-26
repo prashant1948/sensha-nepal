@@ -27,8 +27,8 @@ html .bg-color-dark, html .bg-dark {
     opacity: 1 !important;
 }
 #header .header-body {
-    border-top: unset;
-    background-color: black;
+    border-top: unset !important;
+    background-color: black !important;
 }
 
 .togle-services{
@@ -64,8 +64,4 @@ html .bg-color-dark, html .bg-dark {
         background-color: black !important;
 
     }
-    .fa-chevron-down:before{
-        content: none;
     }
-   
-  }
