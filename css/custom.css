@@ -41,6 +41,13 @@ html .bg-color-dark, html .bg-dark {
     background: black;
 }
 
+.mobile-view{
+    display: none;
+}
+
+.desktop-view{
+    display: block;
+}
 @media only screen and (max-width: 767px) {
     .page-header.page-header-modern.page-header-background.page-header-background-md {
         padding: 85px 0;
@@ -62,11 +69,26 @@ html .bg-color-dark, html .bg-dark {
     html:not(.sticky-header-active) #header.header-transparent:not(.header-semi-transparent) .header-body-index
     {
         background-color: black !important;
-
+        height: 80px;
+    }
+    html.sticky-header-active #header.header-effect-shrink .header-body {
+        position: relative;
+        height: 70px;
+    }
+    #header .header-logo img {
+        width: 80px !important;
+        height: 60px !important;
+    }
+    #revolutionSlider{   
+        margin-top: 80px !important;
+    }
+    .mobile-view{
+        display: block;
     }
 
-    .rev_slider_wrapper{
-        opacity: 1 !important;
-        visibility: inherit !important;
+    .desktop-view{
+        display: none;
     }
-    }
+}
+
+   

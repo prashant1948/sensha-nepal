@@ -145,96 +145,68 @@
             </header>
 
             <div role="main" class="main">
-                <div class="slider-container rev_slider_wrapper" style="height: 100vh;">
-                    <div id="revolutionSlider" class="index slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'sliderLayout': 'fullscreen', 'delay': 9000, 'gridwidth': 1170, 'gridheight': 1000, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }}">
-                        <ul>
-                            <li class="slide-overlay" data-transition="fade">
-                                <img src="img/blank.gif" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
+                <div class="desktop-view">
+                    <div class="slider-container rev_slider_wrapper" style="height: 100vh;">
+                        <div id="revolutionSlider" class="index slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'sliderLayout': 'fullscreen', 'delay': 9000, 'gridwidth': 1170, 'gridheight': 1000, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }}">
+                            <ul>
+                                <li class="slide-overlay" data-transition="fade">
 
-                                <div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute" data-videowidth="100%" data-videoheight="100%" data-videomp4="https://preview.oklerthemes.com/porto/8.0.0/video/memory-of-a-woman.mp4" data-videopreload="preload" data-videoloop="loop" data-forcecover="1" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="false" data-controls='true' data-type='video/mp4'></div>
+                                    <div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute" data-videowidth="100%" data-videoheight="100%" data-videomp4="https://sensha-nepal.com/wp-content/uploads/2016/08/My-Movie-9.mp4" data-videopreload="preload" data-videoloop="loop" data-forcecover="1" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="false" controls='true' type='video/mp4'></div>
 
-                                <div class="tp-caption" data-x="center" data-hoffset="['-125','-125','-125','-215']" data-y="center" data-voffset="['-50','-50','-50','-75']" data-start="1000" data-transform_in="x:[-300%];opacity:0;s:500;" data-transform_idle="opacity:0.2;s:500;" style="z-index: 5;"><img src="img/slides/slide-title-border.png" alt=""></div>
+                                    <div class="tp-caption" data-x="center" data-hoffset="['-125','-125','-125','-215']" data-y="center" data-voffset="['-50','-50','-50','-75']" data-start="1000" data-transform_in="x:[-300%];opacity:0;s:500;" data-transform_idle="opacity:0.2;s:500;" style="z-index: 5;"><img src="img/slides/slide-title-border.png" alt=""></div>
 
-                                <div class="tp-caption text-color-light font-weight-normal" data-x="center" data-y="center" data-voffset="['-50','-50','-50','-75']" data-start="700" data-fontsize="['22','22','22','40']" data-lineheight="['25','25','25','45']" data-transform_in="y:[-50%];opacity:0;s:500;" style="z-index: 5;">Captivate your</div>
+                                    <div class="tp-caption text-color-light font-weight-normal" data-x="center" data-y="center" data-voffset="['-50','-50','-50','-75']" data-start="700" data-fontsize="['22','22','22','40']" data-lineheight="['25','25','25','45']" data-transform_in="y:[-50%];opacity:0;s:500;" style="z-index: 5;">Captivate your</div>
 
-                                <div class="tp-caption d-none d-md-block" data-frames='[{"delay":2400,"speed":500,"frame":"0","from":"opacity:0;x:10%;","to":"opacity:1;x:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-x="center" data-hoffset="['72','72','72','127']" data-y="center" data-voffset="['-33','-33','-33','-55']" style="z-index: 5;"><img src="img/slides/slide-blue-line.png" alt=""></div>
+                                    <div class="tp-caption d-none d-md-block" data-frames='[{"delay":2400,"speed":500,"frame":"0","from":"opacity:0;x:10%;","to":"opacity:1;x:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-x="center" data-hoffset="['72','72','72','127']" data-y="center" data-voffset="['-33','-33','-33','-55']" style="z-index: 5;"><img src="img/slides/slide-blue-line.png" alt=""></div>
 
-                                <div class="tp-caption" data-x="center" data-hoffset="['125','125','125','215']" data-y="center" data-voffset="['-50','-50','-50','-75']" data-start="1000" data-transform_in="x:[300%];opacity:0;s:500;" data-transform_idle="opacity:0.2;s:500;" style="z-index: 5;"><img src="img/slides/slide-title-border.png" alt=""></div>
+                                    <div class="tp-caption" data-x="center" data-hoffset="['125','125','125','215']" data-y="center" data-voffset="['-50','-50','-50','-75']" data-start="1000" data-transform_in="x:[300%];opacity:0;s:500;" data-transform_idle="opacity:0.2;s:500;" style="z-index: 5;"><img src="img/slides/slide-title-border.png" alt=""></div>
 
-                                <div class="tp-caption font-weight-extra-bold text-color-light negative-ls-2" data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"sX:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-x="center" data-y="center" data-fontsize="['50','50','50','90']" data-lineheight="['55','55','55','95']" style="z-index: 5;">Real Car Beauty</div>
+                                    <div class="tp-caption font-weight-extra-bold text-color-light negative-ls-2" data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"sX:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-x="center" data-y="center" data-fontsize="['50','50','50','90']" data-lineheight="['55','55','55','95']" style="z-index: 5;">Real Car Beauty</div>
 
-                                <div class="tp-caption font-weight-light" data-frames='[{"from":"opacity:0;","speed":300,"to":"o:1;","delay":2000,"split":"chars","splitdelay":0.05,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-x="center" data-y="center" data-voffset="['40','40','40','80']" data-fontsize="['18','18','18','50']" data-lineheight="['20','20','20','55']" style="color: #b5b5b5; z-index: 5;"></div>
+                                    <div class="tp-caption font-weight-light" data-frames='[{"from":"opacity:0;","speed":300,"to":"o:1;","delay":2000,"split":"chars","splitdelay":0.05,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-x="center" data-y="center" data-voffset="['40','40','40','80']" data-fontsize="['18','18','18','50']" data-lineheight="['20','20','20','55']" style="color: #b5b5b5; z-index: 5;"></div>
 
-                                <a class="tp-caption slider-scroll-button" data-hash data-hash-offset="80" href="#main" data-x="center" data-y="bottom" data-voffset="['30','30','30','30']" data-start="1600" data-transform_in="y:[100%];s:500;" data-transform_out="y:[100%];opacity:0;s:500;" data-mask_in="x:0px;y:0px;" style="z-index: 5;"></a>
+                                    <a class="tp-caption slider-scroll-button" data-hash data-hash-offset="80" href="#main" data-x="center" data-y="bottom" data-voffset="['30','30','30','30']" data-start="1600" data-transform_in="y:[100%];s:500;" data-transform_out="y:[100%];opacity:0;s:500;" data-mask_in="x:0px;y:0px;" style="z-index: 5;"></a>
 
-                                <div class="tp-dottedoverlay tp-opacity-overlay"></div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="container" id="main">
-                    <div class="row text-center pt-5 pb-4 mt-5 mb-4">
-                        <div class="col-md-10 mx-md-auto">
-                            <h1 class="word-rotator slide font-weight-bold text-8 mb-3 appear-animation" data-appear-animation="fadeInUpShorter">
-                                <span class="word-rotator-words bg-primary">
-                                    <b class="is-visible">Dedicated</b>
-                                    <b>Commited</b>
-                                </span>
-                                <span>
-                                    car coating in Nepal.</span>
-                            </h1>
-                            <p class="lead appear-animation mb-0" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
-                                FOR MAXIMIZED PROTECTION, GLOSSY LOOK & WATER REPELLANCY
-                            </p>
-                            <a href="about-us.php" class="font-weight-semibold text-decoration-none learn-more text-2">About Sensha Nepal
-                                <i class="fas fa-chevron-right ml-2"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="row mb-lg-4 pt-5 mb-5 pb-5">
-                        <div class="col-lg-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
-                            <div class="feature-box feature-box-style-2">
-                                <div class="feature-box-icon">
-                                    <i class="icons icon-support text-color-primary"></i>
-                                </div>
-                                <div class="feature-box-info">
-                                    <h4 class="font-weight-bold mb-2">Full Product Lineup</h4>
-                                    <p>
-                                        SENSHA Nepal’s full product line-up is created to respond to all our customer’s needs for car coating and car washing. This avoids mixing products from multiple suppliers that may have compatibility issues. The compatibility among our products was thoroughly checked so that you will not experience any compatibility issues.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 appear-animation" data-appear-animation="fadeInUpShorter">
-                            <div class="feature-box feature-box-style-2">
-                                <div class="feature-box-icon">
-                                    <i class="icons icon-layers text-color-primary"></i>
-                                </div>
-                                <div class="feature-box-info">
-                                    <h4 class="font-weight-bold mb-2">PART & PROBLEM SPECIFIC APPROACH</h4>
-                                    <p>
-                                        SENSHA Nepal has dedicated coating for a variety of surfaces to maximize your protection against daily road and environmental contaminants. Our products are designed specifically for each car parts.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">
-                            <div class="feature-box feature-box-style-2">
-                                <div class="feature-box-icon">
-                                    <i class="icons icon-menu text-color-primary"></i>
-                                </div>
-                                <div class="feature-box-info">
-                                    <h4 class="font-weight-bold mb-2">FULL RANGE OF SERVICES</h4>
-                                    <p>
-                                        SENSHA Nepal offers full range of services, from car detailing to car wash. We can also customize our packages to provide the auto detailing, car coating and car washing services according to your needs.
-                                    </p>
-                                </div>
-                            </div>
+                                    <div class="tp-dottedoverlay tp-opacity-overlay"></div>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
 
+                <div class="mobile-view">
+                    <div class="slider-container rev_slider_wrapper" style="height: 670px;">
+                        <div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 670, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,500], 'parallax': { 'type': 'scroll', 'origo': 'enterpoint', 'speed': 1000, 'levels': [2,3,4,5,6,7,8,9,12,50], 'disable_onmobile': 'on' }, 'navigation' : {'arrows': { 'enable': true }, 'bullets': {'enable': true, 'style': 'bullets-style-1', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
+                            <ul>
+                                <li data-transition="fade">
+                                    <img src="img/slides/slide-bg.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
+
+                                    <div class="tp-caption tp-resizeme" data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"opacity:0;x:100%;y:-100%;","to":"o:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-type="image" data-x="right" data-y="top" data-width="['auto']" data-height="['auto']" data-basealign="slide"><img src="img/slides/slide-devices.jpg" alt=""></div>
+
+                                    <div class="tp-caption tp-resizeme" data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"opacity:0;x:-100%;y:-100%;","to":"o:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-type="image" data-x="left" data-y="center" data-width="['auto']" data-height="['auto']" data-basealign="slide"><img src="img/slides/slide-laptop.jpg" alt=""></div>
+
+                                    <div class="tp-caption tp-resizeme rs-parallaxlevel-7" data-frames='[{"delay":2500,"speed":1500,"frame":"0","from":"opacity:0;x:-50%;y:-50%;","to":"opacity:1;x:0;y:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-type="image" data-x="-500" data-y="-700" data-width="['auto']" data-height="['auto']" data-basealign="slide"><img src="https://preview.oklerthemes.com/porto/8.0.0/img/slides/slide-parallax-porto-symbol.png" alt=""></div>
+
+                                    <div class="tp-caption" data-x="center" data-hoffset="['-150','-150','-150','-240']" data-y="center" data-voffset="['-50','-50','-50','-75']" data-start="1000" data-transform_in="x:[-300%];opacity:0;s:500;" data-transform_idle="opacity:0.2;s:500;"><img src="https://preview.oklerthemes.com/porto/8.0.0/img/slides/slide-title-border.png" alt=""></div>
+
+                                    <div class="tp-caption text-color-light font-weight-normal" data-x="center" data-y="center" data-voffset="['-50','-50','-50','-75']" data-start="700" data-fontsize="['22','22','22','40']" data-lineheight="['25','25','25','45']" data-transform_in="y:[-50%];opacity:0;s:500;">Captivate Your</div>
+
+                                    <div class="tp-caption d-none d-md-block" data-frames='[{"delay":2400,"speed":500,"frame":"0","from":"opacity:0;x:10%;","to":"opacity:1;x:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-x="center" data-hoffset="['80','80','80','135']" data-y="center" data-voffset="['-33','-33','-33','-55']"><img src="https://preview.oklerthemes.com/porto/8.0.0/img/slides/slide-blue-line.png" alt=""></div>
+
+                                    <div class="tp-caption" data-x="center" data-hoffset="['150','150','150','240']" data-y="center" data-voffset="['-50','-50','-50','-75']" data-start="1000" data-transform_in="x:[300%];opacity:0;s:500;" data-transform_idle="opacity:0.2;s:500;">
+                                        <img src="https://preview.oklerthemes.com/porto/8.0.0/img/slides/slide-title-border.png" alt=""></div>
+
+                                    <div class="tp-caption font-weight-extra-bold text-color-light negative-ls-2" data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"sX:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-x="center" data-y="center" data-fontsize="['50','50','50','90']" data-lineheight="['55','55','55','95']">Real Car Beauty</div>
+
+                                    <div class="tp-caption font-weight-light" data-frames='[{"from":"opacity:0;","speed":300,"to":"o:1;","delay":2000,"split":"chars","splitdelay":0.05,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-x="center" data-y="center" data-voffset="['40','40','40','80']" data-fontsize="['18','18','18','50']" data-lineheight="['20','20','20','55']" style="color: #b5b5b5;">
+                                        <button type="button" class="btn btn-rounded btn-dark mb-2 mt-5" onclick="location.href='contact.php';">Get Quote</button>
+                                    </div>
+
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
 
                 <section class="section bg-dark border-0 m-0" id="services">
                     <div class="container">
@@ -653,6 +625,7 @@
                     </div>
                 </section>
             </div>
+            
             <footer id="footer">
                 <div class="container">
                     <div class="row py-5">
