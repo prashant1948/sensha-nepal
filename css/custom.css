@@ -69,16 +69,16 @@ html .bg-color-dark, html .bg-dark {
     html:not(.sticky-header-active) #header.header-transparent:not(.header-semi-transparent) .header-body-index
     {
         background-color: black !important;
-        height: 80px;
+        /* height: 0px; */
     }
-    html.sticky-header-active #header.header-effect-shrink .header-body {
+    /* html.sticky-header-active #header.header-effect-shrink .header-body {
         position: relative;
         height: 70px;
-    }
-    #header .header-logo img {
-        width: 80px !important;
-        height: 60px !important;
-    }
+    } */
+    /* #header .header-logo img { */
+        /* width: 80px !important; */
+        /* height: 60px !important; */
+    /* } */
     #revolutionSlider{   
         margin-top: 80px !important;
     }
